@@ -1,0 +1,20 @@
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\bin\Debug\KayitOl1.exe.config
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\bin\Debug\KayitOl1.exe
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\bin\Debug\KayitOl1.pdb
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.Form1.resources
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.Properties.Resources.resources
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.exe
+C:\Users\selin\Desktop\KayitOl1\KayitOl1\obj\Debug\KayitOl1.pdb
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\bin\Debug\KayitOl1.exe.config
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\bin\Debug\KayitOl1.exe
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\bin\Debug\KayitOl1.pdb
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.Form1.resources
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.Properties.Resources.resources
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.exe
+C:\Users\selin\Desktop\NDP ÖDEVİ\KayitOl1\KayitOl1\obj\Debug\KayitOl1.pdb
